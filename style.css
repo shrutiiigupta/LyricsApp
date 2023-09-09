@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    
+    background: linear-gradient(to right bottom, #ac5fa5, lightblue);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 52px;
+}
+h1{
+    margin-bottom: 48px;
+    text-align: center;
+}
+input{
+    padding: 4px 12px;
+}
+#search{
+    border-radius: 4px;
+    border: 1px solid black;
+}
+.btn{
+    border-radius: 4px;
+    border: 1px solid black;
+    padding: 4px 14px;
+    background-color: rgb(72, 185, 91);
+    cursor: pointer;
+}
+#form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+section{
+    text-align: center;
+    width: 320px;
+    font-size: 19px;
+}

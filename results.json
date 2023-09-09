@@ -1,0 +1,556 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "hits": [
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 10,
+                    "api_path": "/songs/2953761",
+                    "artist_names": "Ed Sheeran",
+                    "full_title": "Perfect by Ed Sheeran",
+                    "header_image_thumbnail_url": "https://images.genius.com/e3f8f8e64db64e0f9316365d8d247bf9.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/e3f8f8e64db64e0f9316365d8d247bf9.1000x1000x1.jpg",
+                    "id": 2953761,
+                    "lyrics_owner_id": 2171344,
+                    "lyrics_state": "complete",
+                    "path": "/Ed-sheeran-perfect-lyrics",
+                    "pyongs_count": 265,
+                    "relationships_index_url": "https://genius.com/Ed-sheeran-perfect-sample",
+                    "release_date_components": {
+                        "year": 2017,
+                        "month": 3,
+                        "day": 3
+                    },
+                    "release_date_for_display": "March 3, 2017",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 3, 2017",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35fad95b68ee49ae50eb71a918075e75.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35fad95b68ee49ae50eb71a918075e75.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "concurrents": 2,
+                        "hot": false,
+                        "pageviews": 6673791
+                    },
+                    "title": "Perfect",
+                    "title_with_featured": "Perfect",
+                    "url": "https://genius.com/Ed-sheeran-perfect-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/12418",
+                        "header_image_url": "https://images.genius.com/3ab6a4f22f71e08d2b68987f2e725ca9.1000x750x1.jpg",
+                        "id": 12418,
+                        "image_url": "https://images.genius.com/e61adb6350f274fda9c4b1fa73939e95.1000x1000x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Ed Sheeran",
+                        "url": "https://genius.com/artists/Ed-sheeran",
+                        "iq": 1334
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 9,
+                    "api_path": "/songs/3343029",
+                    "artist_names": "Ed Sheeran & Beyoncé",
+                    "full_title": "Perfect Duet by Ed Sheeran & Beyoncé",
+                    "header_image_thumbnail_url": "https://images.genius.com/071a819f088609ee9d24b2dba4546b23.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/071a819f088609ee9d24b2dba4546b23.1000x1000x1.jpg",
+                    "id": 3343029,
+                    "lyrics_owner_id": 2891574,
+                    "lyrics_state": "complete",
+                    "path": "/Ed-sheeran-and-beyonce-perfect-duet-lyrics",
+                    "pyongs_count": 49,
+                    "relationships_index_url": "https://genius.com/Ed-sheeran-and-beyonce-perfect-duet-sample",
+                    "release_date_components": {
+                        "year": 2017,
+                        "month": 12,
+                        "day": 1
+                    },
+                    "release_date_for_display": "December 1, 2017",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 1, 2017",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/d319bb71af2782d6c654389507f21c31.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/d319bb71af2782d6c654389507f21c31.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 1990706
+                    },
+                    "title": "Perfect Duet",
+                    "title_with_featured": "Perfect Duet",
+                    "url": "https://genius.com/Ed-sheeran-and-beyonce-perfect-duet-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1280523",
+                        "header_image_url": "https://images.genius.com/05eeda5acb2cad15933903b5a4e2aaee.1000x1000x1.jpg",
+                        "id": 1280523,
+                        "image_url": "https://images.genius.com/47ae80f6adda3082182ed162a8980a46.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ed Sheeran & Beyoncé",
+                        "url": "https://genius.com/artists/Ed-sheeran-and-beyonce"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 6,
+                    "api_path": "/songs/3356202",
+                    "artist_names": "Ed Sheeran & Andrea Bocelli",
+                    "full_title": "Perfect Symphony by Ed Sheeran & Andrea Bocelli",
+                    "header_image_thumbnail_url": "https://images.genius.com/077c401213adacc821aa9bc94bbeddee.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/077c401213adacc821aa9bc94bbeddee.1000x1000x1.jpg",
+                    "id": 3356202,
+                    "lyrics_owner_id": 3499957,
+                    "lyrics_state": "complete",
+                    "path": "/Ed-sheeran-and-andrea-bocelli-perfect-symphony-lyrics",
+                    "pyongs_count": 18,
+                    "relationships_index_url": "https://genius.com/Ed-sheeran-and-andrea-bocelli-perfect-symphony-sample",
+                    "release_date_components": {
+                        "year": 2017,
+                        "month": 12,
+                        "day": 15
+                    },
+                    "release_date_for_display": "December 15, 2017",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 15, 2017",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/077c401213adacc821aa9bc94bbeddee.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/077c401213adacc821aa9bc94bbeddee.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 1308393
+                    },
+                    "title": "Perfect Symphony",
+                    "title_with_featured": "Perfect Symphony",
+                    "url": "https://genius.com/Ed-sheeran-and-andrea-bocelli-perfect-symphony-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1304926",
+                        "header_image_url": "https://images.genius.com/7812a0d58bf10c151944e74e19d4ce26.600x325x1.jpg",
+                        "id": 1304926,
+                        "image_url": "https://images.genius.com/2b32509a4578f2aabe958c3bc3301342.633x633x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ed Sheeran & Andrea Bocelli",
+                        "url": "https://genius.com/artists/Ed-sheeran-and-andrea-bocelli"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 5,
+                    "api_path": "/songs/2486576",
+                    "artist_names": "Jonas Blue (Ft. JP Cooper)",
+                    "full_title": "Perfect Strangers by Jonas Blue (Ft. JP Cooper)",
+                    "header_image_thumbnail_url": "https://images.genius.com/25c450c4f30beaa431fa83a5112d0719.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/25c450c4f30beaa431fa83a5112d0719.1000x1000x1.jpg",
+                    "id": 2486576,
+                    "lyrics_owner_id": 104344,
+                    "lyrics_state": "complete",
+                    "path": "/Jonas-blue-perfect-strangers-lyrics",
+                    "pyongs_count": 20,
+                    "relationships_index_url": "https://genius.com/Jonas-blue-perfect-strangers-sample",
+                    "release_date_components": {
+                        "year": 2016,
+                        "month": 6,
+                        "day": 3
+                    },
+                    "release_date_for_display": "June 3, 2016",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 3, 2016",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cfb99ca150ddfd422b5a8040f5605b89.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/cfb99ca150ddfd422b5a8040f5605b89.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 1293383
+                    },
+                    "title": "Perfect Strangers",
+                    "title_with_featured": "Perfect Strangers (Ft. JP Cooper)",
+                    "url": "https://genius.com/Jonas-blue-perfect-strangers-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/67349",
+                            "header_image_url": "https://images.genius.com/4b65bbd884334309802d9d45ca85d333.1000x1000x1.jpg",
+                            "id": 67349,
+                            "image_url": "https://images.genius.com/4b65bbd884334309802d9d45ca85d333.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "JP Cooper",
+                            "url": "https://genius.com/artists/Jp-cooper",
+                            "iq": 311
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/632979",
+                        "header_image_url": "https://images.genius.com/6bbbcffaf65c9ca78ceb0f792cf88b3a.400x400x1.jpg",
+                        "id": 632979,
+                        "image_url": "https://images.genius.com/d54fb6c319a92c25f8af56d50b854a7b.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Jonas Blue",
+                        "url": "https://genius.com/artists/Jonas-blue",
+                        "iq": 707
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 28,
+                    "api_path": "/songs/54969",
+                    "artist_names": "J. Cole (Ft. Missy Elliott)",
+                    "full_title": "Nobody's Perfect by J. Cole (Ft. Missy Elliott)",
+                    "header_image_thumbnail_url": "https://images.genius.com/ed35ac1342446879899bcee64ce51082.300x280x1.jpg",
+                    "header_image_url": "https://images.genius.com/ed35ac1342446879899bcee64ce51082.572x533x1.jpg",
+                    "id": 54969,
+                    "lyrics_owner_id": 7,
+                    "lyrics_state": "complete",
+                    "path": "/J-cole-nobodys-perfect-lyrics",
+                    "pyongs_count": 76,
+                    "relationships_index_url": "https://genius.com/J-cole-nobodys-perfect-sample",
+                    "release_date_components": {
+                        "year": 2012,
+                        "month": 2,
+                        "day": 7
+                    },
+                    "release_date_for_display": "February 7, 2012",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 7, 2012",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ed35ac1342446879899bcee64ce51082.300x280x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/ed35ac1342446879899bcee64ce51082.572x533x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 1071090
+                    },
+                    "title": "Nobody’s Perfect",
+                    "title_with_featured": "Nobody's Perfect (Ft. Missy Elliott)",
+                    "url": "https://genius.com/J-cole-nobodys-perfect-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/1529",
+                            "header_image_url": "https://images.genius.com/d91c82fa4ae2f1016fadc1c24fbbc59e.1000x333x1.jpg",
+                            "id": 1529,
+                            "image_url": "https://images.genius.com/085828b7d79bf8cf068b1557ca7a5e4c.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Missy Elliott",
+                            "url": "https://genius.com/artists/Missy-elliott"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/69",
+                        "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+                        "id": 69,
+                        "image_url": "https://images.genius.com/84a98a8d26b13b7311aa2359ebade757.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "J. Cole",
+                        "url": "https://genius.com/artists/J-cole",
+                        "iq": 505
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 6,
+                    "api_path": "/songs/2326335",
+                    "artist_names": "One Direction",
+                    "full_title": "Perfect by One Direction",
+                    "header_image_thumbnail_url": "https://images.rapgenius.com/d8763539b48cfba9fc8d73e9c54f8e31.300x213x1.jpg",
+                    "header_image_url": "https://images.rapgenius.com/d8763539b48cfba9fc8d73e9c54f8e31.1000x709x1.jpg",
+                    "id": 2326335,
+                    "lyrics_owner_id": 104344,
+                    "lyrics_state": "complete",
+                    "path": "/One-direction-perfect-lyrics",
+                    "pyongs_count": 93,
+                    "relationships_index_url": "https://genius.com/One-direction-perfect-sample",
+                    "release_date_components": {
+                        "year": 2015,
+                        "month": 10,
+                        "day": 16
+                    },
+                    "release_date_for_display": "October 16, 2015",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 16, 2015",
+                    "song_art_image_thumbnail_url": "https://images.rapgenius.com/1ac8819ceb00d0938b2455c159216ad0.300x300x1.jpg",
+                    "song_art_image_url": "https://images.rapgenius.com/1ac8819ceb00d0938b2455c159216ad0.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 1025729
+                    },
+                    "title": "Perfect",
+                    "title_with_featured": "Perfect",
+                    "url": "https://genius.com/One-direction-perfect-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/19657",
+                        "header_image_url": "https://images.genius.com/d556360ef2b1a2f6a80d526a9a957a80.1000x709x1.jpg",
+                        "id": 19657,
+                        "image_url": "https://images.genius.com/d4e08e9c7edd1833b410b078a8b33483.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "One Direction",
+                        "url": "https://genius.com/artists/One-direction"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 40,
+                    "api_path": "/songs/745210",
+                    "artist_names": "Tyler, The Creator (Ft. Charlie Wilson, Kali Uchis, Syd & Toro y Moi)",
+                    "full_title": "FUCKING YOUNG / PERFECT by Tyler, The Creator (Ft. Charlie Wilson, Kali Uchis, Syd & Toro y Moi)",
+                    "header_image_thumbnail_url": "https://images.genius.com/2adfda8bf1f50f98b73ed94ece010f54.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/2adfda8bf1f50f98b73ed94ece010f54.977x977x1.jpg",
+                    "id": 745210,
+                    "lyrics_owner_id": 321054,
+                    "lyrics_state": "complete",
+                    "path": "/Tyler-the-creator-fucking-young-perfect-lyrics",
+                    "pyongs_count": 243,
+                    "relationships_index_url": "https://genius.com/Tyler-the-creator-fucking-young-perfect-sample",
+                    "release_date_components": {
+                        "year": 2015,
+                        "month": 4,
+                        "day": 13
+                    },
+                    "release_date_for_display": "April 13, 2015",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 13, 2015",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/2adfda8bf1f50f98b73ed94ece010f54.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/2adfda8bf1f50f98b73ed94ece010f54.977x977x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false,
+                        "pageviews": 953237
+                    },
+                    "title": "FUCKING YOUNG / PERFECT",
+                    "title_with_featured": "FUCKING YOUNG / PERFECT (Ft. Charlie Wilson, Kali Uchis, Syd & Toro y Moi)",
+                    "url": "https://genius.com/Tyler-the-creator-fucking-young-perfect-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/14082",
+                            "header_image_url": "https://images.genius.com/753512aff0666253a9df2617fcd1dcc4.975x180x1.png",
+                            "id": 14082,
+                            "image_url": "https://images.genius.com/3d4df62de2a776a09f171124ea03f153.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Toro y Moi",
+                            "url": "https://genius.com/artists/Toro-y-moi",
+                            "iq": 634
+                        },
+                        {
+                            "api_path": "/artists/160041",
+                            "header_image_url": "https://images.genius.com/30ae704942bd723544bc4ae2d49d7f2a.1000x333x1.jpg",
+                            "id": 160041,
+                            "image_url": "https://images.genius.com/1f3592398901c85a0ea6619e30ba5e1c.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Kali Uchis",
+                            "url": "https://genius.com/artists/Kali-uchis",
+                            "iq": 6514
+                        },
+                        {
+                            "api_path": "/artists/12935",
+                            "header_image_url": "https://images.genius.com/4976f59572f9b4a7f71d57bda5c071d0.1000x333x1.jpg",
+                            "id": 12935,
+                            "image_url": "https://images.genius.com/23f2759ac10a473cacd24fbe00c72573.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Syd",
+                            "url": "https://genius.com/artists/Syd",
+                            "iq": 1853
+                        },
+                        {
+                            "api_path": "/artists/530",
+                            "header_image_url": "https://images.genius.com/b37a7b3735fbea935cebd74c63324d20.1000x165x1.jpg",
+                            "id": 530,
+                            "image_url": "https://images.genius.com/dd0eb43d629b8393b29579b13316ef4f.691x691x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Charlie Wilson",
+                            "url": "https://genius.com/artists/Charlie-wilson",
+                            "iq": 855
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/685",
+                        "header_image_url": "https://images.genius.com/f9221685a3ee1499c69e85c2b7a4a94a.1000x162x1.png",
+                        "id": 685,
+                        "image_url": "https://images.genius.com/4e9f66f62fdc9420b7b69482ae69c248.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Tyler, The Creator",
+                        "url": "https://genius.com/artists/Tyler-the-creator",
+                        "iq": 271
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 9,
+                    "api_path": "/songs/369417",
+                    "artist_names": "5 Seconds of Summer",
+                    "full_title": "She Looks So Perfect by 5 Seconds of Summer",
+                    "header_image_thumbnail_url": "https://i.genius.com/a6a47de9ad1655c0b230e3d5b80d25f2d085b832?url=https%3A%2F%2Fdraw.acharts.net%2Fcover%2F86691-54d08dba3dafa-l.jpg",
+                    "header_image_url": "https://i.genius.com/a6a47de9ad1655c0b230e3d5b80d25f2d085b832?url=https%3A%2F%2Fdraw.acharts.net%2Fcover%2F86691-54d08dba3dafa-l.jpg",
+                    "id": 369417,
+                    "lyrics_owner_id": 611651,
+                    "lyrics_state": "complete",
+                    "path": "/5-seconds-of-summer-she-looks-so-perfect-lyrics",
+                    "pyongs_count": 146,
+                    "relationships_index_url": "https://genius.com/5-seconds-of-summer-she-looks-so-perfect-sample",
+                    "release_date_components": {
+                        "year": 2014,
+                        "month": 2,
+                        "day": 21
+                    },
+                    "release_date_for_display": "February 21, 2014",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 21, 2014",
+                    "song_art_image_thumbnail_url": "https://i.genius.com/5f611c37393a068d997beb60285d85385d860ed9?url=http%3A%2F%2Fwww.happydaysradio.de%2FTop20CountdownPlaylist%2F5%2520seconds%2520of%2520summer%2520-%2520she%2520looks%2520so%2520perfect.jpg",
+                    "song_art_image_url": "https://i.genius.com/5f611c37393a068d997beb60285d85385d860ed9?url=http%3A%2F%2Fwww.happydaysradio.de%2FTop20CountdownPlaylist%2F5%2520seconds%2520of%2520summer%2520-%2520she%2520looks%2520so%2520perfect.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false,
+                        "pageviews": 825780
+                    },
+                    "title": "She Looks So Perfect",
+                    "title_with_featured": "She Looks So Perfect",
+                    "url": "https://genius.com/5-seconds-of-summer-she-looks-so-perfect-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/64610",
+                        "header_image_url": "https://images.genius.com/e9d4536c77c61b03e8f4992a7d1c7c4f.832x1000x1.jpg",
+                        "id": 64610,
+                        "image_url": "https://images.genius.com/55f7486e9a84d8aefaa4b3b3b437404b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "5 Seconds of Summer",
+                        "url": "https://genius.com/artists/5-seconds-of-summer",
+                        "iq": 4023
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 27,
+                    "api_path": "/songs/4499981",
+                    "artist_names": "Taylor Swift",
+                    "full_title": "Mr. Perfectly Fine (Taylor's Version) [From the Vault] by Taylor Swift",
+                    "header_image_thumbnail_url": "https://images.genius.com/cb3e5556ace37f591ee4247fb36ba50b.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/cb3e5556ace37f591ee4247fb36ba50b.1000x1000x1.jpg",
+                    "id": 4499981,
+                    "lyrics_owner_id": 2956979,
+                    "lyrics_state": "complete",
+                    "path": "/Taylor-swift-mr-perfectly-fine-taylors-version-from-the-vault-lyrics",
+                    "pyongs_count": 78,
+                    "relationships_index_url": "https://genius.com/Taylor-swift-mr-perfectly-fine-taylors-version-from-the-vault-sample",
+                    "release_date_components": {
+                        "year": 2021,
+                        "month": 4,
+                        "day": 7
+                    },
+                    "release_date_for_display": "April 7, 2021",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 7, 2021",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6cd0ab9299beabca6c26f6543614811f.300x301x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/6cd0ab9299beabca6c26f6543614811f.533x534x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "concurrents": 5,
+                        "hot": false,
+                        "pageviews": 781823
+                    },
+                    "title": "Mr. Perfectly Fine (Taylor’s Version) [From the Vault]",
+                    "title_with_featured": "Mr. Perfectly Fine (Taylor's Version) [From the Vault]",
+                    "url": "https://genius.com/Taylor-swift-mr-perfectly-fine-taylors-version-from-the-vault-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1177",
+                        "header_image_url": "https://images.genius.com/77f6ad359ba5e2ca5e56528366ee770a.1000x333x1.jpg",
+                        "id": 1177,
+                        "image_url": "https://images.genius.com/bb91ac668a46e074958b7a9c4441e481.399x399x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Taylor Swift",
+                        "url": "https://genius.com/artists/Taylor-swift",
+                        "iq": 1544
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 25,
+                    "api_path": "/songs/3052271",
+                    "artist_names": "Lorde",
+                    "full_title": "Perfect Places by Lorde",
+                    "header_image_thumbnail_url": "https://images.genius.com/135e9ae4d19e7816e0ffdd9a95922a0c.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/135e9ae4d19e7816e0ffdd9a95922a0c.1000x1000x1.jpg",
+                    "id": 3052271,
+                    "lyrics_owner_id": 104344,
+                    "lyrics_state": "complete",
+                    "path": "/Lorde-perfect-places-lyrics",
+                    "pyongs_count": 135,
+                    "relationships_index_url": "https://genius.com/Lorde-perfect-places-sample",
+                    "release_date_components": {
+                        "year": 2017,
+                        "month": 6,
+                        "day": 2
+                    },
+                    "release_date_for_display": "June 2, 2017",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 2, 2017",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f9635eb4fa633012fbed9b8332a8bc44.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/f9635eb4fa633012fbed9b8332a8bc44.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 564573
+                    },
+                    "title": "Perfect Places",
+                    "title_with_featured": "Perfect Places",
+                    "url": "https://genius.com/Lorde-perfect-places-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/36944",
+                        "header_image_url": "https://images.genius.com/f257dfe304576aa95a1d215dffe65aab.1000x429x1.jpg",
+                        "id": 36944,
+                        "image_url": "https://images.genius.com/f95ef5adcf31fdd7ef300c981b79bae3.818x818x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Lorde",
+                        "url": "https://genius.com/artists/Lorde",
+                        "iq": 9839
+                    }
+                }
+            }
+        ]
+    }
+}

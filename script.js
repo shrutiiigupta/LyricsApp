@@ -7,20 +7,48 @@ async function getSongs(songName = "") {
     const res = await fetch(url, {
         method: "GET",
         headers: {
-            "mode": "same-origin",
+            // "mode": "same-origin",
             "Authorization": "Bearer 7D5gGhDQmR2vWaIqYoH7J9mTd8Qbu7eWtBtEMFDqhjLbLDX_2POOt_P8RapHj8er"
         },
-        // params:{
-        //     "q": "blank space"
-        // }
+        
     });
     const data = await res.json();
-    const {response: {hits= []} = {} } = data || {};
-    // const {response: {hits: {result} = []} = {} } = data || {};
 
-    console.log(hits);
     return data;
     
 }
 
-const data = getSongs(`${search.value}`);
+
+function createSongDiv(song) {
+    const div = document.createElement('div');
+    div.classList.add('song');
+
+    const artistName = song.result.artist_names;
+    const songUrl = song.result.url;
+
+    div.innerHTML = `
+        <h3>${artistName}</h3>
+        <p><a href="${songUrl}" target="_blank">Lyrics here</a></p>
+    `;
+
+    return div;
+}
+
+form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const searchTerm = search.value.trim();
+
+    if (!searchTerm) {
+        alert('Please type in a search term');
+    } else {
+        const data = await getSongs(searchTerm);
+        const { response: { hits = [] } = {} } = data || {};
+
+        resul.innerHTML = ''; // clear the previous results
+
+        for (let i = 0; i < 10 && i < hits.length; i++) {
+            const songDiv = createSongDiv(hits[i]);
+            resul.appendChild(songDiv);
+        }
+    }
+});

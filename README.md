@@ -4,8 +4,13 @@ This web application provides a simple yet useful interface for searching and di
 
 ## How to Use
 IMP- Run this command in command prompt window. (This is to avoid CORS error)
+For windows:
 ```
 "C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir=C:\tmpChromeSession
+```
+For Mac ios
+```
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --disable-web-security --user-data-dir=/tmp/ChromeSession
 ```
 1. Copy the link(github pages deployment) from description and paste it in the new chrome session that just opened.
 

@@ -23,6 +23,9 @@ This web application provides a simple yet useful interface for searching and di
 - This application relies on the Fetch API to make requests to the Genius API.
 
 ## Screenshots
+![Screenshot (20)](https://github.com/shrutiiigupta/LyricsApp/assets/98140693/7aae1665-2faa-40ca-b6d3-1ee9928ef031)
+
+![Screenshot (21)](https://github.com/shrutiiigupta/LyricsApp/assets/98140693/7ea045fb-f634-4d23-9457-af91e027bda3)
 
 
 

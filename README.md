@@ -3,8 +3,11 @@
 This web application provides a simple yet useful interface for searching and discovering songs and viewing their lyrics. The application uses the Genius API to search for songs based on the provided search term and displays the results on the webpage. 
 
 ## How to Use
-
-1. Open the `index.html` file in your web browser.
+IMP- Run this command in command prompt window. (This is to avoid CORS error)
+```
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir=C:\tmpChromeSession
+```
+1. Copy the link(github pages deployment) from description and paste it in the new chrome session that just opened.
 
 2. You will see a search form at the top of the page with an input field and a search button.
 
